@@ -69,6 +69,12 @@ Saved/*
 # Compiled source files for the engine to use
 Intermediate/*
 Plugins/*/Intermediate/*
+Plugins/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+Content/StarterContent/
+Content/KiteDemo/
+Content/LandscapePackOne
+Content/LandscapePackTwo
+Content/WaterPlane
