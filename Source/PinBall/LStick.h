@@ -30,6 +30,18 @@ protected:
 	UPROPERTY(VisibleAnywhere, BlueprintReadOnly, Category = Camera, meta = (AllowPrivateAccess = "true"))
 		class USceneComponent* RootComp;
 
+	float stickSpeed;
+
+	int32 LStickIsDown : 1;
+	int32 RStickIsDown : 1;
+	float LStickTimer;
+	float RStickTimer;
+	FRotator LStickPressedRotation;
+	FRotator LStickDefaultRotation;
+	FRotator RStickPressedRotation;
+	FRotator RStickDefaultRotation;
+
+
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
