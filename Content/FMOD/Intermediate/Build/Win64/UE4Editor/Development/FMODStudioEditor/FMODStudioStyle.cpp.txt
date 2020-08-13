@@ -1,0 +1,16 @@
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudioEditor\Private\FMODStudioStyle.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore/Public/Styling/SlateStyle.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/StyleDefaults.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Paths.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateNoResource.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Styling/ISlateStyle.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBorderBrush.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateBoxBrush.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateColorBrush.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateImageBrush.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\SlateCore\Public\Brushes/SlateDynamicImageBrush.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\EditorStyle/Public/EditorStyleSet.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\EditorStyle/Public/Interfaces/IEditorStyleModule.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h

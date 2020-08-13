@@ -1,0 +1,18 @@
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/TextProperty.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudioEditor/Private/Sequencer/FMODChannelEditors.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\Sequencer\Public\SequencerChannelTraits.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\Sequencer\Public\ISequencerChannelInterface.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelProxy.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelEditorDataEntry.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\Sequencer\Public\KeyDrawParams.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\MovieScene\Public\MovieSceneClipboard.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\Sequencer\Public\SequencerClipboardReconciler.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Editor\Sequencer\Public\SequencerKeyStructGenerator.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Sequencer\SequencerKeyStructGenerator.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneByteChannel.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneByteChannel.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Private\Sequencer/FMODEventControlSection.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEventControlSection.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudioEditor\FMODChannelEditors.generated.h

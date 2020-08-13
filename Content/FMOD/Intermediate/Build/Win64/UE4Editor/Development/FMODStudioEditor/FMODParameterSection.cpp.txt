@@ -1,0 +1,5 @@
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudioEditor\Private\Sequencer\FMODParameterSection.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParameterSection.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneBoolChannel.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBoolChannel.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParameterSection.generated.h

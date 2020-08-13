@@ -1,0 +1,135 @@
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Private\FMODAssetTable.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODAsset.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODEvent.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshot.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODSnapshot.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSnapshotReverb.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Sound/ReverbEffect.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ReverbEffect.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODSnapshotReverb.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBank.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODBank.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODBus.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODBus.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODVCA.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODVCA.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMODUtils.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/Engine.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/World.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\CollisionQueryParams.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\WorldCollision.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\PhysicsCore\Public\CollisionShape.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Pawn.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\GameFramework/Actor.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\InputCore\Classes\InputCoreTypes.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Attribute.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\InputCore\InputCoreTypes.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Components/ChildActorComponent.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\ChildActorComponent.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RenderCore\Public\RenderCommandFence.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ITransaction.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc\Change.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/Level.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Templates/ScopedCallback.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/MaterialMerging.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\MaterialMerging.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Level.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Actor.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavAgentInterface.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\AI/Navigation/NavigationTypes.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/CoreStats.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavigationTypes.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\NavAgentInterface.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Pawn.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\EngineDefines.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/Blueprint.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintCore.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BlueprintCore.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/BlueprintGeneratedClass.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/UndefineUPropertyMacros.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\BlueprintGeneratedClass.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/DefineUPropertyMacros.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\Blueprint/BlueprintSupport.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Blueprint.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/PendingNetGame.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine\NetworkDelegates.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\PendingNetGame.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/LatentActionManager.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\LatentActionManager.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Engine/GameInstance.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\Subsystems/GameInstanceSubsystem.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\Subsystems/Subsystem.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Subsystem.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameInstanceSubsystem.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\Subsystems/SubsystemCollection.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\CoreUObject\Public\UObject/GCObject.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\GameInstance.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\Physics/PhysicsInterfaceDeclares.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\PhysicsCore\Public\PhysicsInterfaceDeclaresCore.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Classes\Particles/WorldPSCPool.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\WorldPSCPool.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\AudioDeviceManager.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\AudioMixerCore\Public\AudioDefines.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\AudioThread.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/Queue.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\Subsystems/WorldSubsystem.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\WorldSubsystem.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\World.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/BufferedOutputDevice.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/FrameRate.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/FrameTime.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/ExpressionParserTypes.inl
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Engine\Public\Subsystems/EngineSubsystem.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\EngineSubsystem.generated.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\RHI.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Containers/StaticArray.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\MultiGPU.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\RHIResources.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\DynamicRHI.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\RHIContext.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\RHIUtilities.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\RHICommandList.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/App.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/CommandLine.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/QualifiedFrameTime.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Timecode.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfiler.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\ProfilingDebugging/CsvProfilerTrace.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace/Trace.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Trace.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/Field.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Atomic.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocol.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol0.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol1.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Protocols/Protocol2.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\Writer.inl
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail/EventDef.inl
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\TraceLog\Public\Trace\Detail\EventDef.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\RHI\Public\RHICommandList.inl
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4\Inc\Engine\Engine.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODSettings.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4\Inc\FMODStudio\FMODSettings.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Private\FMODFileCallbacks.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\HAL/FileManager.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\GenericPlatform/GenericPlatformFile.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Misc/Paths.h

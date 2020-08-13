@@ -1,0 +1,109 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:E:\Programmi\UnrealEngine\UE_4.25\Engine\Build\Windows\Resources\Default-Win64.manifest
+/NOLOGO
+/DEBUG
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/DELAYLOAD:"fmodL.dll"
+/DELAYLOAD:"fmodstudioL.dll"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\lib\um\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\PCH.FMODStudioEditor.h.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventControlTrackEditor.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventParameterTrackEditor.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODParameterSection.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\AssetTypeActions_FMODEvent.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentDetails.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAudioComponentVisualizer.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODEventEditor.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODSettingsCustomization.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditorModule.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioStyle.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\SFMODEventEditorPanel.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODAmbientSoundActorFactory.gen.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODChannelEditors.gen.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\FMODStudioEditor.init.gen.cpp.obj"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\Default.rc2.res"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodL_vc.lib"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\..\..\Binaries\Win64\fmodstudioL_vc.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\UE4Editor-Slate.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\SlateCore\UE4Editor-SlateCore.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Settings\UE4Editor-Settings.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\EditorStyle\UE4Editor-EditorStyle.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelEditor\UE4Editor-LevelEditor.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetTools\UE4Editor-AssetTools.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\AssetRegistry\UE4Editor-AssetRegistry.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\PropertyEditor\UE4Editor-PropertyEditor.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\WorkspaceMenuStructure\UE4Editor-WorkspaceMenuStructure.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sockets\UE4Editor-Sockets.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\LevelSequence\UE4Editor-LevelSequence.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\MainFrame\UE4Editor-MainFrame.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieScene\UE4Editor-MovieScene.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTracks\UE4Editor-MovieSceneTracks.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\MovieSceneTools\UE4Editor-MovieSceneTools.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\ToolMenus\UE4Editor-ToolMenus.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\UE4Editor-Core.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\UE4Editor-CoreUObject.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\UE4Editor-Engine.lib"
+"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudio\UE4Editor-FMODStudio.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\InputCore\UE4Editor-InputCore.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\UnrealEd\UE4Editor-UnrealEd.lib"
+"E:\Programmi\UnrealEngine\UE_4.25\Engine\Intermediate\Build\Win64\UE4Editor\Development\Sequencer\UE4Editor-Sequencer.lib"
+/OUT:"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.dll"
+/IMPLIB:"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Development\FMODStudioEditor\UE4Editor-FMODStudioEditor.suppressed.lib"
+/PDB:"E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Binaries\Win64\UE4Editor-FMODStudioEditor.pdb"
+/ignore:4078
+/INCLUDE:IMPLEMENT_MODULE_FMODStudioEditor

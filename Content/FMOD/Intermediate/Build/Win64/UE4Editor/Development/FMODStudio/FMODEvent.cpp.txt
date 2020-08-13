@@ -1,0 +1,18 @@
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODEvent.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Classes\FMODAsset.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODAsset.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Intermediate\Build\Win64\UE4Editor\Inc\FMODStudio\FMODEvent.generated.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMODStudioModule.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleManager.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/ModuleInterface.h
+E:\Programmi\UnrealEngine\UE_4.25\Engine\Source\Runtime\Core\Public\Modules/Boilerplate/ModuleBoilerplate.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.hpp
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio_common.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_common.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_codec.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_dsp_effects.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_output.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod_studio.h
+E:\Documenti\Unreal Projects\FlipperUE4\Plugins\FMODStudio\Source\FMODStudio\Public\FMOD\fmod.hpp
